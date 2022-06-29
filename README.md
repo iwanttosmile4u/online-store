@@ -6,4 +6,4 @@ Technologies which I used:
 - BEM-methodology;
 - npm tool.
 
-This site was built using GitHub Pages: [DEMO LINK] (https://iwanttosmile4u.github.io/online-store/)
+This site was built using GitHub Pages: [DEMO LINK](https://iwanttosmile4u.github.io/online-store/)
